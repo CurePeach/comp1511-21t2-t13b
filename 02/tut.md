@@ -25,9 +25,9 @@
 #define CONSTANT_NAME constant_value
 ```
 
-  Notice there are no semi-colons and no equal signs.
+    Notice there are no semi-colons and no equal signs.
 
-  Now, when we compile the code, the compiler will replace every instance of CONSTANT_NAME with constant_value, and then convert it to machine code.
+    Now, when we compile the code, the compiler will replace every instance of CONSTANT_NAME with constant_value, and then convert it to machine code.
 </details>
 
 <br>
