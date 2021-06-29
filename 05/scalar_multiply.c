@@ -23,6 +23,8 @@ int main(void) {
     while (row < ROW_SIZE) {
         int col = 0;
         while (col < COL_SIZE) {
+            // This number is just what we're initialising every array element to
+            // It can be any number, I just set it to 2 for the example
             my_array[row][col] = 2;
             col += 1;
         }
