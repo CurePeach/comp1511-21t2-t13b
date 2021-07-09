@@ -5,7 +5,7 @@
 <details> 
   <summary>Answer</summary>
   
-  My name is Clarissa Tatang and am currently a 3rd year Software Engineering student. Feel free to email me at clarissa.tatang@unsw.edu.au if you have any questions!
+My name is Clarissa Tatang and am currently a 3rd year Software Engineering student. Feel free to email me at clarissa.tatang@unsw.edu.au if you have any questions!
 </details>
 
 <br>
@@ -15,7 +15,7 @@
 <details> 
   <summary>Answer</summary>
   
-  My name is Patrick Chambers and I'm a 2nd year Computer Science / Mechanical Engineering student. In my free time I can be found playing piano or climbing large rocks. I'm looking forward to working with everyone this term!
+My name is Patrick Chambers and I'm a 2nd year Computer Science / Mechanical Engineering student. In my free time I can be found playing piano or climbing large rocks. I'm looking forward to working with everyone this term!
 </details>
 
 <br>
@@ -41,9 +41,9 @@
 <details>
   <summary>Answer</summary>
   
-  A software that communicates with the hardware and allows other programs to run.
-  
-  **Eg**. Windows, iOS, Linux!
+A software that communicates with the hardware and allows other programs to run.
+
+**Eg**. Windows, iOS, Linux!
 </details>
 
 <br>
@@ -100,7 +100,7 @@ int main (void) {
 <details>
   <summary>Answer</summary>
   
-  The '\n' represents a new line - a press of the enter button. It tells the program to go to the next line.
+The '\n' represents a new line - a press of the enter button. It tells the program to go to the next line.
 </details>
 
 <br>
@@ -110,9 +110,9 @@ int main (void) {
 <details>
   <summary>Answer</summary>
   
-  The first two lines of the sample program are comments. A comment's purpose include:
-  - Describing what is happening in the code - why did we choose to write this code?
-  - Providing important information about the code such as the author or its purpose.
+The first two lines of the sample program are comments. A comment's purpose include:
+- Describing what is happening in the code - why did we choose to write this code?
+- Providing important information about the code such as the author or its purpose.
 </details>
 
 <br>
@@ -122,7 +122,7 @@ int main (void) {
 <details>
   <summary>Answer</summary>
   
-  The code inside the main function is indented. It is indented because there are curly brackets around it. The rule for indentation is
+The code inside the main function is indented. It is indented because there are curly brackets around it. The rule for indentation is
 
 ```
 (pairs of curly brackets around the code) x 4 spaces = indentation amount

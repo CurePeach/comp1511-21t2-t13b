@@ -5,13 +5,13 @@
 <details>
     <summary>Answer</summary>
 
-    A code review is where we review code. We talk about what we think the code did well and we ask questions about what the code does if we don't understand. We don't want to be rude but we want to be constructive.
+A code review is where we review code. We talk about what we think the code did well and we ask questions about what the code does if we don't understand. We don't want to be rude but we want to be constructive.
 
-    Examples of something that might be good to say during a code review:
+Examples of something that might be good to say during a code review:
 
-    - What is the goal of this program? Maybe include that in the header comment?
+- What is the goal of this program? Maybe include that in the header comment?
 
-    - I think your indentation on this line is incorrect. Whenever I want to check my indentation, I use 1511 style.
+- I think your indentation on this line is incorrect. Whenever I want to check my indentation, I use 1511 style.
 
 </details>
 
@@ -24,13 +24,13 @@
 <details>
     <summary>Answer</summary>
 
-    - Read everything!!
+- Read everything!!
 
-    - Use the starting code!!
+- Use the starting code!!
 
-    - If you're unsure of something, use the reference!!
+- If you're unsure of something, use the reference!!
 
-    - If you're ever stuck, email us, ask questions in the lab, ask questions on the forum or attend help sessions.
+- If you're ever stuck, email us, ask questions in the lab, ask questions on the forum or attend help sessions.
 
 </details>
 
@@ -41,13 +41,13 @@
 <details>
     <summary>Answer</summary>
 
-    - Write a description of the code in the header comment.
+- Write a description of the code in the header comment.
 
-    - Remove placeholder comments like TODO or put #defines here.
+- Remove placeholder comments like TODO or put #defines here.
 
-    - Use #defines to give random numbers meaning.
+- Use #defines to give random numbers meaning.
 
-    - Use functions! Use functions from the beginning and use them to plan your code! They help reuse code and label blocks of code similar to how variables label data.
+- Use functions! Use functions from the beginning and use them to plan your code! They help reuse code and label blocks of code similar to how variables label data.
     
 </details>
 
@@ -58,11 +58,11 @@
 <details>
     <summary>Answer</summary>
 
-    A function is a separate section of code that we can write that can be "called" by its name. When it's called, control of the program jumps to the function before returning to wherever it was called from.
-    
-    Functions usually have inputs and outputs, meaning, information that needs to be passed into the function and then information that is returned when the function finishes.
-    
-    Example functions we've seen are: printf(), scanf(), main().
+A function is a separate section of code that we can write that can be "called" by its name. When it's called, control of the program jumps to the function before returning to wherever it was called from.
+
+Functions usually have inputs and outputs, meaning, information that needs to be passed into the function and then information that is returned when the function finishes.
+
+Example functions we've seen are: printf(), scanf(), main().
 
 </details>
 
@@ -73,11 +73,11 @@
 <details>
     <summary>Answer</summary>
     
-    - Help plan your code with real words. Breaks down one large problem into smaller problems.
+- Help plan your code with real words. Breaks down one large problem into smaller problems.
 
-    - Easy to reuse code because all we need to do is call a function. Imagine if every time we wanted to print something to the terminal, we had to write out the entire code of printf().
-    
-    - Easy to read and understand your code if you have good function names because you're labelling code similar to how you label variables with good variable names.
+- Easy to reuse code because all we need to do is call a function. Imagine if every time we wanted to print something to the terminal, we had to write out the entire code of printf().
+
+- Easy to read and understand your code if you have good function names because you're labelling code similar to how you label variables with good variable names.
 
 </details>
 
@@ -91,8 +91,8 @@
 
 <details>
     <summary>Answer</summary>
-    
-    An array is a collection of elements with the same data type. Each element is accessed providing the name of the array and an index. The index range is from 0 through to N-1, where N is the number of elements in the array. This is also known as zero-based indexing.
+
+An array is a collection of elements with the same data type. Each element is accessed providing the name of the array and an index. The index range is from 0 through to N-1, where N is the number of elements in the array. This is also known as zero-based indexing.
     
 </details>
 
@@ -106,10 +106,10 @@
 
 <details>
     <summary>Answer</summary>
-    
-    To learn more about scanf(), type man scanf into the terminal and you will learn a lot about it. The only part that is relevant to us today is the return value section. Man pages are rather confusing so instead of focusing on the entire text, focus on the subheadings for what you want.
-    
-    What scanf() returns is the amount of successfully scanned variables in that statement. The table will help us look at it with some real practical examples!
+
+To learn more about scanf(), type man scanf into the terminal and you will learn a lot about it. The only part that is relevant to us today is the return value section. Man pages are rather confusing so instead of focusing on the entire text, focus on the subheadings for what you want.
+
+What scanf() returns is the amount of successfully scanned variables in that statement. The table will help us look at it with some real practical examples!
 
 </details>
 
@@ -124,5 +124,5 @@
 <details>
     <summary>Link</summary>
     
-    https://forms.gle/x8Qfo5V3t2fwpDvP8
+https://forms.gle/x8Qfo5V3t2fwpDvP8
 </details>

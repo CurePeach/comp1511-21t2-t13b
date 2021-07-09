@@ -7,7 +7,7 @@
 <details>
   <summary>Link</summary>
 
-  https://play.kahoot.it/v2/?quizId=f3918bb7-4fe3-42db-9abf-e5b2fa90f78e
+https://play.kahoot.it/v2/?quizId=f3918bb7-4fe3-42db-9abf-e5b2fa90f78e
 </details>
 
 <br>
@@ -17,17 +17,17 @@
 <details>
     <summary>Answer</summary>
 
-    A constant is a value that cannot be changed during the program. For example, you can't add 1 to a constant, but you can to an int variable.
+A constant is a value that cannot be changed during the program. For example, you can't add 1 to a constant, but you can to an int variable.
 
-    To create one, we use the following syntax:
+To create one, we use the following syntax:
 
 ```
 #define CONSTANT_NAME constant_value
 ```
 
-    Notice there are no semi-colons and no equal signs.
+Notice there are no semi-colons and no equal signs.
 
-    Now, when we compile the code, the compiler will replace every instance of CONSTANT_NAME with constant_value, and then convert it to machine code.
+Now, when we compile the code, the compiler will replace every instance of CONSTANT_NAME with constant_value, and then convert it to machine code.
 </details>
 
 <br>
@@ -37,17 +37,17 @@
 <details>
     <summary>Answer</summary>
 
-    If statements introduce decisions into your code.
+If statements introduce decisions into your code.
 
-    Consider the scenario where you are on a path.
+Consider the scenario where you are on a path.
 
-    If there's a single path to follow, there are no if statements.
+If there's a single path to follow, there are no if statements.
 
-    If there's a path on the side that circles back to where you are, that's one if statement.
+If there's a path on the side that circles back to where you are, that's one if statement.
 
-    If there's a fork in the path, that's an if statement and an else statement.
+If there's a fork in the path, that's an if statement and an else statement.
 
-    If there are multiple branches in the path, that's an if statement, many else-if statements and an else statement.
+If there are multiple branches in the path, that's an if statement, many else-if statements and an else statement.
 
 </details>
 
@@ -72,5 +72,5 @@ Problem: The user gives us the year *year* and we have to tell the user if it's 
 <details>
     <answer>Link</answer>
 
-    https://forms.gle/YUsKDW2KUjzkEVuL7
+https://forms.gle/YUsKDW2KUjzkEVuL7
 </details>
